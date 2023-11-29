@@ -1,0 +1,35 @@
+.d1 {
+    padding: 20px;
+    background-color:white;
+    width: 650px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+.d2 {
+background-color: white;
+width: 400px;
+height: 400px;
+}
+
+.email {
+    background-color: transparent;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    padding: 5px;
+    color: lightgray;
+    cursor: pointer;
+}
+
+.button {
+    color: white;
+    background-color:rgb(35, 39, 66);
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px;
+}
